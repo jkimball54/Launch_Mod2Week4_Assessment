@@ -7,7 +7,7 @@
 
 ## Questions (8 points possible)
 1. In your own words, how would you define an ORM?
-        ORM - Object Relational Mapping. It is the generic term for a framework that connects an OOP language to a database. In the case of C# it is entity framework. This allows you to do CRUD operations in C# and have those be automatically transferred to sql queries.
+        ORM - Object Relational Mapping. It is the generic term for a framework that connects an OOP language to a database. In the case of C# it is entity framework. This allows you to do CRUD operations in C# and have those be automatically transferred to sql queries and pushed to databases.
 2. Given the two classes for bike and owner, update the classes to include a one-to-many relationship where each bike has one owner, and each owner can have many bikes.
 
     ```C#
