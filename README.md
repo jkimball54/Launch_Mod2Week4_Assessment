@@ -29,7 +29,7 @@
             public int Id { get; set; }
             public string Name { get; set; }
             public int Zipcode { get; set; }
-            public List<Bike> bikes {get; set;} = new List<Bike>();
+            public List<Bike> Bikes {get; set;} = new List<Bike>();
         }
     }
     ```
